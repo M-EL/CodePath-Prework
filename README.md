@@ -30,9 +30,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/CkxxjM3" data-context="false" ><a href="//imgur.com/a/CkxxjM3"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![DemoLight](https://user-images.githubusercontent.com/43360016/150266143-c9876b97-4938-4581-bfbd-4782858688bf.gif)
+![DemoDark](https://user-images.githubusercontent.com/43360016/150266218-3caff5fd-8ce7-4ef5-837a-6082ed86d4b0.gif)
+
+
 
 
 ## Notes
